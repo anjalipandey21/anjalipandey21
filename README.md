@@ -9,7 +9,7 @@ I love to explore different domains in Software Engineering.
 
 ## 📌 Pinned Repositories
 Check out my **LeetCode solutions** and **projects**:
-- [LeetCode Solutions]([https://leetcode.com/u/anjalip21/])
+- [LeetCode Solutions](https://leetcode.com/u/anjalip21/)
 - [Awesome Web Projects](https://github.com/yourusername/web-projects)
 
 ## 📫 Connect with me!
