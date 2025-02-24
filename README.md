@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Anjali
 I love to explore different domains in Software Engineering.
 
 ## 🚀 Technologies & Skills
