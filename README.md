@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]  
+I love to explore different domains in Software Engineering.
 
-<!--
-**anjalipandey21/anjalipandey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies & Skills
+- 🐍 Python, Java
+- 💾 SQL, MySQL, PostgreSQL
+- 🌐 Web Dev: SpringBoot
+- 📊 Data Science: Pandas, NumPy, Machine Learning
 
-Here are some ideas to get you started:
+## 📌 Pinned Repositories
+Check out my **LeetCode solutions** and **projects**:
+- [LeetCode Solutions](https://github.com/yourusername/leetcode-solutions)
+- [Awesome Web Projects](https://github.com/yourusername/web-projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me!
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+
+⭐ **Feel free to explore my repositories and star them!**
