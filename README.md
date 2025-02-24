@@ -9,11 +9,11 @@ I love to explore different domains in Software Engineering.
 
 ## 📌 Pinned Repositories
 Check out my **LeetCode solutions** and **projects**:
-- [LeetCode Solutions](https://github.com/yourusername/leetcode-solutions)
+- [LeetCode Solutions]([https://leetcode.com/u/anjalip21/])
 - [Awesome Web Projects](https://github.com/yourusername/web-projects)
 
 ## 📫 Connect with me!
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anjalipandey21/)
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 
 ⭐ **Feel free to explore my repositories and star them!**
