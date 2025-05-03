@@ -1,6 +1,6 @@
 # 👩‍💻 Hi there, I'm Anjali Pandey!
 
-Welcome to my GitHub! I'm a Software Engineer with over 3 years of backend experience, including work with Fortune 100 clients. I specialize in building scalable systems using Spring Boot, PostgreSQL, Redis, and RabbitMQ — and I have a growing passion for AI/ML with hands-on experience in NLP using Hugging Face Transformers.
+Welcome to my GitHub! I'm a Software Engineer with over 3+ years of backend experience, including work with Fortune 100 clients. I specialize in building scalable systems using Spring Boot, PostgreSQL, Redis, and RabbitMQ — and I have a growing passion for AI/ML with hands-on experience in NLP using Hugging Face Transformers.
 
 ---
 
