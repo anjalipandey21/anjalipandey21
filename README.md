@@ -59,5 +59,4 @@ Welcome to my GitHub! I'm a Software Engineer with over 3+ years of backend expe
 - [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/d5c3f0ee781246a58e7c7fc273911ef8)  
 - [BigQuery Data Warehousing](https://cp.certmetrics.com/amazon/en/public/verify/credential/d5c3f0ee781246a58e7c7fc273911ef8)  
 - [Tableau: Transforming Data](https://www.credly.com/badges/8673e93b-0b38-4927-84a6-27476ab51ffc)  
-- [LeetCode Solutions](https://leetcode.com/u/anjalip21/)
 
