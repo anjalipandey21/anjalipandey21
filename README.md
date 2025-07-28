@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a Software Engineer with over 3+ years of backend expe
 ## 💼 Experience Highlights
 
 ### 🔹 Buffalo Niagara Medical Campus, Inc | *Software Engineer II*
-`Jan 2025 - Present | New York, USA`
+`Jan 2025 - May 2025 | New York, USA`
 - Built Python pipelines for job data validation, increasing accuracy by 35%
 - Automated scraping and ML-ready data for 10K+ listings
 - Developed NLP-based job matching with vector embeddings
