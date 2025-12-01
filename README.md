@@ -110,6 +110,6 @@ pandey24@buffalo.edu
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! Feel free to reach out for collaborations or just to say hello!🤝</b>
+  <b>Thanks for visiting! Feel free to connect or collaborate 🤝</b>
 </p>
 
