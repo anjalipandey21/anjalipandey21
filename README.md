@@ -1,62 +1,123 @@
-# 👩‍💻 Hi there, I'm Anjali Pandey!
+<h1 align="center">👋 Hi there, I'm Anjali!</h1>
 
-Welcome to my GitHub! I'm a Software Engineer with over 3+ years of backend experience, including work with Fortune 100 clients. I specialize in building scalable systems using Spring Boot, PostgreSQL, Redis, and RabbitMQ — and I have a growing passion for AI/ML with hands-on experience in NLP using Hugging Face Transformers.
-
----
-
-## 🚀 About Me
-
-- 🏢 **Current Role**: Software Engineer II at Buffalo Niagara Medical Campus, Inc.
-- 🌍 **Location**: New York, USA
-- 📚 **Education**:
-  - MS in Management Information Systems @ University at Buffalo (2025)
-  - BTech in Computer Science @ Kalasalingam University (2022)
-- 🧠 **Current Interests**: Retrieval-Augmented Generation (RAG), scalable microservices, and vector search
+<h3 align="center">Software Engineer • Backend & AI/ML Enthusiast</h3>
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 About Me  
+I'm a passionate **Software Engineer** with experience in backend systems, data engineering, and applied AI.  
+I love building scalable microservices, intelligent applications, and solving real-world problems using technology.
 
-### 🔹 Buffalo Niagara Medical Campus, Inc | *Software Engineer II*
-`Jan 2025 - May 2025 | New York, USA`
-- Built Python pipelines for job data validation, increasing accuracy by 35%
-- Automated scraping and ML-ready data for 10K+ listings
-- Developed NLP-based job matching with vector embeddings
-
-### 🔹 DXC Technology | *Software Engineer II & I*
-`Feb 2023 – Jun 2024 | Delhi, India`
-- Engineered policy systems restoring 10K+ policies/month
-- Built bonus engines handling >1 million policies
-- Improved batch speed by 40%, async queues with RabbitMQ
-
-### 🔹 Aditya Software Solutions | *Software Engineer*
-`Jun 2021 – Jan 2023 | Mumbai, India`
-- Developed GST billing modules and improved dashboard load times from 10s to 10ms
+- 💼 Previously **Software Engineer II** at Buffalo Niagara Medical Campus, Inc  
+- 🌱 Exploring **LLMs, RAG systems, vector search, and event-driven architecture**  
+- 🔭 Currently working on **RAG pipelines**, structured & unstructured data workflows, and system design  
+- 🎯 Passionate about **Java, Python, Spring Boot, AI/ML, distributed systems**  
+- 🌎 Based in the USA • MS in MIS from **University at Buffalo**
 
 ---
 
-## 🛠 Skills
+## 🛠️ Tech Stack
 
-**Languages & Frameworks**: Java, Python, Spring Boot, Django, Flask  
-**Databases**: PostgreSQL, MySQL, Oracle, MongoDB  
-**Cloud & DevOps**: AWS, GCP, Azure, Docker, Jenkins, Kubernetes, ArgoCD  
-**AI/ML**: scikit-learn, Hugging Face, Pandas, NumPy  
-**Tools & Testing**: Redis, RabbitMQ, Kafka, Postman, Swagger, JUnit, SonarQube  
-**Visualization**: Tableau, Power BI, Matplotlib, Plotly
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+### **Backend Development**
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Messaging & Caching**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **AI/ML**
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-## 💡 Projects
+## 📌 Featured Projects
 
-- **📄 Local RAG System**: LLM integration with custom knowledge bases for document-grounded responses
-- **📊 Luxury Car Brand Analysis**: Unstructured data pipeline for market insights
-- **📢 Notification Alert System**: Event-driven alert delivery system for real-time processing
+### 🔹 **Local RAG System**
+LLM-powered Retrieval-Augmented Generation pipeline for answering questions over local documents.  
+**Tech:** Python, Embeddings, FAISS / Vector DB, LLMs
+
+### 🔹 **Luxury Car Brand Analysis**
+Market & sentiment analysis on unstructured automotive data.  
+**Tech:** Python, NLP, Pandas, Visualization
+
+### 🔹 **Notification Alert System**
+Event-driven notification system built using queues and async processing.  
+**Tech:** Java, Spring Boot, RabbitMQ, PostgreSQL
+
+> 📝 *When your repos are ready, I can generate matching project cards with links.*
 
 ---
 
-## 🏅 Certifications
+## 💼 Experience
 
-- [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/d5c3f0ee781246a58e7c7fc273911ef8)  
-- [BigQuery Data Warehousing](https://cp.certmetrics.com/amazon/en/public/verify/credential/d5c3f0ee781246a58e7c7fc273911ef8)  
-- [Tableau: Transforming Data](https://www.credly.com/badges/8673e93b-0b38-4927-84a6-27476ab51ffc)  
+### **Software Engineer II — BNMC, New York**  
+**Jan 2025 – May 2025**
+- Built Python pipelines for job data validation (↑35% accuracy)
+- Scraped & preprocessed 10K+ job listings  
+- Implemented NLP-based job–skills matching with embeddings  
 
+### **Software Engineer II — DXC Technology**  
+**Feb 2023 – Jun 2024**
+- Engineered large-scale policy systems (10K+ policies/mo)  
+- Built bonus automation engine handling 1M+ policies  
+- Optimized batch processing with queues & async jobs (↑40% faster)
+
+### **Software Engineer — Aditya Software Solutions**  
+**2021 – 2023**
+- Developed GST billing and invoicing modules  
+- Improved dashboard response: **10 seconds → 10 ms**
+
+---
+
+## 🏆 Certifications
+- AWS Solutions Architect – Associate  
+- BigQuery Data Warehousing  
+- Tableau Data Visualization  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anjalipandey21&show_icons=true&theme=transparent&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipandey21&layout=compact&theme=transparent" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me  
+
+📌 **Portfolio:**  
+https://cherry-burn-ebd.notion.site/Anjali-Pandey-Portfolio-1e4ac6becf9f80fb9bd6c151efa378e3  
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/anjalipandey21  
+
+📧 **Email:**  
+anjalipandey0821@gmail.com  
+
+---
+
+<sub>Last updated: Dec 2025</sub>
