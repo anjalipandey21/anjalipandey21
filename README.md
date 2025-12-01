@@ -1,115 +1,142 @@
+<!-- ======================= PROFILE BANNER ======================= -->
+
+<p align="center">
+  <img src="https://i.imgur.com/RI7yVYh.png" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm Anjali!</h1>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Software+Engineer;Backend+Developer;AI+%26+ML+Enthusiast;RAG+%7C+LLMs+%7C+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;AI+%26+ML+Enthusiast;RAG+%7C+LLMs+%7C+Distributed+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
-I'm a dedicated **Software Engineer** passionate about building scalable systems, intelligent applications, and data-driven solutions.
+# 🚀 About Me  
+I'm a dedicated **Software Engineer** passionate about backend development, intelligent systems, and AI-powered workflows.
 
-🎯 **Most recently Software Engineer II at BNMC, New York**  
-💡 Passionate about **Backend Engineering, RAG, LLMs, Microservices, and Data Engineering**  
-🔬 Experienced with **Java, Python, Spring Boot, PostgreSQL, Redis, RabbitMQ, AWS**  
-📚 Always exploring the intersections of **AI, distributed systems, and system design**
+🔧 **Experience:** Software Engineer II @ BNMC, Software Engineer II @ DXC  
+🧠 **Interests:** Backend engineering • LLMs • RAG systems • Distributed systems • Data Engineering  
+💡 **Always learning:** Cloud infra, microservices, and modern AI stacks  
+🌎 Based in the USA • MIS Graduate from **University at Buffalo**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack  
 
 ### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,kotlin,sql" />
+</p>
 
-### **Backend Development**
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+### **Backend Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,django,flask" />
+</p>
 
 ### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### **Containerization & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### **Messaging, Caching & APIs**
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### **AI / Machine Learning**
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=matplotlib&logoColor=white)
-
----
-
-## 🎯 Featured Projects
-
-### 🧠 **Local RAG System**
-**A local Retrieval-Augmented Generation pipeline** for question answering over documents.  
-**Tech:** Python, Embeddings, LLMs, FAISS  
-🔗
-
----
-
-### 🚗 **Luxury Car Brand Analysis**
-Market & sentiment insights pipeline for automotive brands.  
-**Tech:** Python, NLP, Pandas, Visualization
-
----
-
-### 🔔 **Notification Alert System**
-Async event-driven alerting system with retries & DLQ.  
-**Tech:** Java, Spring Boot, RabbitMQ, PostgreSQL
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anjalipandey21&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipandey21&layout=compact&theme=transparent" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjalipandey21&theme=transparent" height="160" />
+### **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions" />
+</p>
+
+### **ML / AI**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### **Messaging, Caching, APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,redis" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+# 🎯 Featured Projects (Premium Cards Style)
 
-📌 **Portfolio:**  
-https://cherry-burn-ebd.notion.site/Anjali-Pandey-Portfolio-1e4ac6becf9f80fb9bd6c151efa378e3  
+<!-- GRID PROJECT CARDS -->
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/anjalipandey21  
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🧠 Local RAG System</h3>
+      <p>LLM-powered retrieval system for PDF/document-based question answering.</p>
+      <p><b>Tech:</b> Python • Embeddings • Vector DB • LLMs</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🚗 Luxury Car Brand Analysis</h3>
+      <p>End-to-end analysis pipeline for market insights using unstructured data.</p>
+      <p><b>Tech:</b> Python • NLP • Pandas • Plotly</p>
+    </td>
+  </tr>
 
-📧 **Email:**  
-anjalipandey0821@gmail.com 
-pandey24@buffalo.edu
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔔 Notification Alert System</h3>
+      <p>Event-driven microservice handling real-time alerts with retry & DLQ.</p>
+      <p><b>Tech:</b> Java • Spring Boot • RabbitMQ • PostgreSQL</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📊 Job Data Processing Pipeline</h3>
+      <p>Automated job data validation, scraping, preprocessing and ML-ready workflows.</p>
+      <p><b>Tech:</b> Python • NLP • Data Engineering</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anjalipandey21&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipandey21&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=anjalipandey21&theme=transparent" />
+</p>
+
+---
+
+# 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anjalipandey21">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:anjalipra@buffalo.edu">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anjalipandey21">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting! Feel free to connect or collaborate 🤝</b>
+  ⭐ <i>Thanks for visiting! Feel free to connect or collaborate.</i> ⭐
 </p>
 
