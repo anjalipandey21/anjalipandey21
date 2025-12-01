@@ -12,7 +12,7 @@ I love building scalable microservices, intelligent applications, and solving re
 - 🌱 Exploring **LLMs, RAG systems, vector search, and event-driven architecture**  
 - 🔭 Currently working on **RAG pipelines**, structured & unstructured data workflows, and system design  
 - 🎯 Passionate about **Java, Python, Spring Boot, AI/ML, distributed systems**  
-- 🌎 Based in the USA • MS in MIS from **University at Buffalo**
+- 🌎 Based in the NY, USA • MS in MIS from **University at Buffalo**
 
 ---
 
