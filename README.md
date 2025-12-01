@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hi there, I'm Anjali!</h1>
 
-<h3 align="center">Software Engineer • Backend & AI/ML Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Software+Engineer;Backend+Developer;AI+%26+ML+Enthusiast;RAG+%7C+LLMs+%7C+Distributed+Systems" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me  
-I'm a passionate **Software Engineer** with experience in backend systems, data engineering, and applied AI.  
-I love building scalable microservices, intelligent applications, and solving real-world problems using technology.
+I'm a dedicated **Software Engineer** passionate about building scalable systems, intelligent applications, and data-driven solutions.
 
-- 💼 Previously **Software Engineer II** at Buffalo Niagara Medical Campus, Inc  
-- 🌱 Exploring **LLMs, RAG systems, vector search, and event-driven architecture**  
-- 🔭 Currently working on **RAG pipelines**, structured & unstructured data workflows, and system design  
-- 🎯 Passionate about **Java, Python, Spring Boot, AI/ML, distributed systems**  
-- 🌎 Based in the NY, USA • MS in MIS from **University at Buffalo**
+🎯 **Most recently Software Engineer II at BNMC, New York**  
+💡 Passionate about **Backend Engineering, RAG, LLMs, Microservices, and Data Engineering**  
+🔬 Experienced with **Java, Python, Spring Boot, PostgreSQL, Redis, RabbitMQ, AWS**  
+📚 Always exploring the intersections of **AI, distributed systems, and system design**
 
 ---
 
@@ -22,6 +22,7 @@ I love building scalable microservices, intelligent applications, and solving re
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### **Backend Development**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -32,80 +33,69 @@ I love building scalable microservices, intelligent applications, and solving re
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### **Cloud & DevOps**
+### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **Messaging & Caching**
+### **Containerization & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **Messaging, Caching & APIs**
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### **AI/ML**
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### **AI / Machine Learning**
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Featured Projects
 
-### 🔹 **Local RAG System**
-LLM-powered Retrieval-Augmented Generation pipeline for answering questions over local documents.  
-**Tech:** Python, Embeddings, FAISS / Vector DB, LLMs
+### 🧠 **Local RAG System**
+**A local Retrieval-Augmented Generation pipeline** for question answering over documents.  
+**Tech:** Python, Embeddings, LLMs, FAISS  
+🔗
 
-### 🔹 **Luxury Car Brand Analysis**
-Market & sentiment analysis on unstructured automotive data.  
+---
+
+### 🚗 **Luxury Car Brand Analysis**
+Market & sentiment insights pipeline for automotive brands.  
 **Tech:** Python, NLP, Pandas, Visualization
 
-### 🔹 **Notification Alert System**
-Event-driven notification system built using queues and async processing.  
+---
+
+### 🔔 **Notification Alert System**
+Async event-driven alerting system with retries & DLQ.  
 **Tech:** Java, Spring Boot, RabbitMQ, PostgreSQL
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Analytics
 
-### **Software Engineer II — BNMC, New York**  
-**Jan 2025 – May 2025**
-- Built Python pipelines for job data validation (↑35% accuracy)
-- Scraped & preprocessed 10K+ job listings  
-- Implemented NLP-based job–skills matching with embeddings  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anjalipandey21&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipandey21&layout=compact&theme=transparent" />
+</p>
 
-### **Software Engineer II — DXC Technology**  
-**Feb 2023 – Jun 2024**
-- Engineered large-scale policy systems (10K+ policies/mo)  
-- Built bonus automation engine handling 1M+ policies  
-- Optimized batch processing with queues & async jobs (↑40% faster)
-
-### **Software Engineer — Aditya Software Solutions**  
-**2021 – 2023**
-- Developed GST billing and invoicing modules  
-- Improved dashboard response: **10 seconds → 10 ms**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anjalipandey21&theme=transparent" height="160" />
+</p>
 
 ---
 
-## 🏆 Certifications
-- AWS Solutions Architect – Associate  
-- BigQuery Data Warehousing  
-- Tableau Data Visualization  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anjalipandey21&show_icons=true&theme=transparent&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipandey21&layout=compact&theme=transparent" />
-
-</div>
-
----
-
-## 🤝 Connect With Me  
+## 🌐 Connect With Me  
 
 📌 **Portfolio:**  
 https://cherry-burn-ebd.notion.site/Anjali-Pandey-Portfolio-1e4ac6becf9f80fb9bd6c151efa378e3  
@@ -114,8 +104,11 @@ https://cherry-burn-ebd.notion.site/Anjali-Pandey-Portfolio-1e4ac6becf9f80fb9bd6
 https://www.linkedin.com/in/anjalipandey21  
 
 📧 **Email:**  
-anjalipandey0821@gmail.com  
+anjalipra@buffalo.edu  
 
 ---
 
-<sub>Last updated: Dec 2025</sub>
+<p align="center">
+  <b>Thanks for visiting my profile! Feel free to reach out for collaborations or just to say hello!🤝</b>
+</p>
+
