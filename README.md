@@ -64,8 +64,6 @@ Market & sentiment analysis on unstructured automotive data.
 Event-driven notification system built using queues and async processing.  
 **Tech:** Java, Spring Boot, RabbitMQ, PostgreSQL
 
-> 📝 *When your repos are ready, I can generate matching project cards with links.*
-
 ---
 
 ## 💼 Experience
