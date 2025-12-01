@@ -104,7 +104,8 @@ https://cherry-burn-ebd.notion.site/Anjali-Pandey-Portfolio-1e4ac6becf9f80fb9bd6
 https://www.linkedin.com/in/anjalipandey21  
 
 📧 **Email:**  
-anjalipra@buffalo.edu  
+anjalipandey0821@gmail.com 
+pandey24@buffalo.edu
 
 ---
 
