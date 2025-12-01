@@ -66,7 +66,6 @@ I'm a dedicated **Software Engineer** passionate about building scalable systems
 ### 🧠 **Local RAG System**
 **A local Retrieval-Augmented Generation pipeline** for question answering over documents.  
 **Tech:** Python, Embeddings, LLMs, FAISS  
-🔗 *Repo coming soon (I can format it when you push it!)*
 
 ---
 
