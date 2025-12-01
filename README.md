@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 I'm a dedicated **Software Engineer** passionate about building scalable systems, intelligent applications, and data-driven solutions.
 
-🎯 **Most recently Software Engineer II at BNMC, New York**  
+🎯 **Most recently AI Software Engineer at PhysicianX, New York**  
 💡 Passionate about **Backend Engineering, RAG, LLMs, Microservices, and Data Engineering**  
 🔬 Experienced with **Java, Python, Spring Boot, PostgreSQL, Redis, RabbitMQ, AWS**  
 📚 Always exploring the intersections of **AI, distributed systems, and system design**
