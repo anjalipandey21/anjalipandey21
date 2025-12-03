@@ -9,10 +9,11 @@
 ## 🚀 About Me  
 I'm a dedicated **Software Engineer** passionate about building scalable systems, intelligent applications, and data-driven solutions.
 
-🎯 **Most recently AI Software Engineer at PhysicianX, New York**  
-💡 Passionate about **Backend Engineering, RAG, LLMs, Microservices, and Data Engineering**  
-🔬 Experienced with **Java, Python, Spring Boot, PostgreSQL, Redis, RabbitMQ, AWS**  
-📚 Always exploring the intersections of **AI, distributed systems, and system design**
+ * **Most recently AI Software Engineer at PhysicianX, New York**
+ *  Comfortable across the stack but happiest doing backend, data, and ML-heavy work
+ * Passionate about **Backend Engineering, AI Engineer, RAG, LLMs, Microservices, and Data Engineering**  
+ * Experienced with **Java, Python, Spring Boot, PostgreSQL, Redis, RabbitMQ, AWS**  
+ * Always exploring the intersections of **AI, distributed systems, backend platform, and system design**
 
 ---
 
@@ -103,7 +104,7 @@ https://cherry-burn-ebd.notion.site/Anjali-Pandey-Portfolio-1e4ac6becf9f80fb9bd6
 https://www.linkedin.com/in/anjalipandey21  
 
 📧 **Email:**  
-anjalipandey0821@gmail.com
+anjalipandey0821@gmail.com ,
 pandey24@buffalo.edu
 
 ---
